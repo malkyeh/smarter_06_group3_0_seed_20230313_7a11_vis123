@@ -1,2 +1,2 @@
-# smarter_06_group3_0_seed_20230313_7a11_vis123
-Rice disease visible light image dataset(水稻病害可見光影像資料集)
+# Rice disease visible light image dataset(水稻病害可見光影像資料集)
+針對不同波長(400-1000nm)進行感染水稻葉芽線蟲之種子影像蒐集。
